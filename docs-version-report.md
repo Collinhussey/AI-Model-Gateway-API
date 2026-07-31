@@ -3,18 +3,20 @@
 ## 版本统计
 
 - 总文档数: 152
-- 近7天变更: 1
+- 近7天变更: 2
 - 版本文件: /home/runner/work/AI-Model-Gateway-API/AI-Model-Gateway-API/docs/docs-versions.json
-- 最后扫描: 2026-07-30 10:35:48
+- 最后扫描: 2026-07-31 11:13:17
 
 ## 最近变更
 
+- **MODIFIED**: docs-version-report.md (1.0.79 → 1.0.80) - 2026-07-31
 - **MODIFIED**: docs-version-report.md (1.0.78 → 1.0.79) - 2026-07-30
 
 ## 过期文档 (30天未更新)
 
 - docs/README.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/en/api-reference/index.md (版本: 1.0.2, 最后更新: 2026-06-03)
+- docs/en/api-reference/management-api.md (版本: 1.0.4, 最后更新: 2026-07-01)
 - docs/en/api-reference/openapi-spec.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/en/api-reference/universal-api.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/en/configuration/application-config.md (版本: 1.0.3, 最后更新: 2026-06-03)
@@ -49,6 +51,7 @@
 - docs/en/troubleshooting/index.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/en/troubleshooting/performance.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/api-reference/index.md (版本: 1.0.2, 最后更新: 2026-06-03)
+- docs/zh/api-reference/management-api.md (版本: 1.0.3, 最后更新: 2026-07-01)
 - docs/zh/api-reference/openapi-spec.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/api-reference/universal-api.md (版本: 1.0.3, 最后更新: 2026-06-03)
 - docs/zh/configuration/application-config.md (版本: 1.0.3, 最后更新: 2026-06-03)
@@ -92,6 +95,7 @@
 - docs/en/configuration/modular-config.md (版本: 1.0.1, 最后更新: 2026-06-03)
 - docs/en/monitoring/error-tracking.md (版本: 1.0.1, 最后更新: 2026-06-03)
 - docs/en/monitoring/slow-query-alerts.md (版本: 1.0.1, 最后更新: 2026-06-03)
+- docs/en/security/api-key-management.md (版本: 1.0.3, 最后更新: 2026-07-01)
 - docs/en/security/data-sanitization.md (版本: 1.0.1, 最后更新: 2026-06-03)
 - docs/en/security/index.md (版本: 1.0.1, 最后更新: 2026-06-03)
 - docs/en/security/jwt-authentication.md (版本: 1.0.4, 最后更新: 2026-06-03)
@@ -105,6 +109,7 @@
 - docs/zh/configuration/modular-config.md (版本: 1.0.1, 最后更新: 2026-06-03)
 - docs/zh/monitoring/error-tracking.md (版本: 1.0.1, 最后更新: 2026-06-03)
 - docs/zh/monitoring/slow-query-alerts.md (版本: 1.0.1, 最后更新: 2026-06-03)
+- docs/zh/security/api-key-management.md (版本: 1.0.5, 最后更新: 2026-07-01)
 - docs/zh/security/data-sanitization.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/security/index.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/security/jwt-authentication.md (版本: 1.0.4, 最后更新: 2026-06-03)
@@ -133,6 +138,7 @@
 - docs/zh/troubleshooting/issue-fixes.md (版本: 1.0.1, 最后更新: 2026-06-03)
 - docs/en/configuration/state-persistence.md (版本: 1.0.1, 最后更新: 2026-06-10)
 - docs/zh/configuration/state-persistence.md (版本: 1.0.1, 最后更新: 2026-06-10)
+- docs/zh/api-reference/error-codes.md (版本: 1.0.1, 最后更新: 2026-07-01)
 - repository-description.md (版本: 1.0.0, 最后更新: 2026-06-29)
 
 ## 依赖关系分析
@@ -624,7 +630,7 @@
 
 ## 所有文档版本
 
-- **docs-version-report.md**: v1.0.79 - 2026-07-30 (7b407bcc)
+- **docs-version-report.md**: v1.0.80 - 2026-07-31 (ad00c094)
 - **docs/zh/reference/roadmap.md**: v1.0.8 - 2026-07-18 (7b407bcc)
 - **docs/zh/configuration/validation-rules.md**: v1.0.3 - 2026-07-18 (7b407bcc)
 - **docs/en/reference/roadmap.md**: v1.0.8 - 2026-07-18 (7b407bcc)
