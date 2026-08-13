@@ -5,10 +5,11 @@
 - 总文档数: 152
 - 近7天变更: 8
 - 版本文件: /home/runner/work/AI-Model-Gateway-API/AI-Model-Gateway-API/docs/docs-versions.json
-- 最后扫描: 2026-08-12 06:56:24
+- 最后扫描: 2026-08-13 07:01:48
 
 ## 最近变更
 
+- **MODIFIED**: docs-version-report.md (1.0.92 → 1.0.93) - 2026-08-13
 - **MODIFIED**: docs-version-report.md (1.0.91 → 1.0.92) - 2026-08-12
 - **MODIFIED**: docs-version-report.md (1.0.90 → 1.0.91) - 2026-08-11
 - **MODIFIED**: docs-version-report.md (1.0.89 → 1.0.90) - 2026-08-10
@@ -16,7 +17,6 @@
 - **MODIFIED**: docs-version-report.md (1.0.87 → 1.0.88) - 2026-08-08
 - **MODIFIED**: docs-version-report.md (1.0.86 → 1.0.87) - 2026-08-07
 - **MODIFIED**: docs-version-report.md (1.0.85 → 1.0.86) - 2026-08-06
-- **MODIFIED**: docs-version-report.md (1.0.84 → 1.0.85) - 2026-08-05
 
 ## 过期文档 (30天未更新)
 
@@ -43,6 +43,7 @@
 - docs/en/getting-started/first-steps.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/en/getting-started/index.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/en/getting-started/installation.md (版本: 1.0.3, 最后更新: 2026-06-03)
+- docs/en/index.md (版本: 1.0.5, 最后更新: 2026-07-14)
 - docs/en/monitoring/alerts.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/en/monitoring/configuration.md (版本: 1.0.3, 最后更新: 2026-06-26)
 - docs/en/monitoring/dashboards.md (版本: 1.0.2, 最后更新: 2026-06-03)
@@ -80,6 +81,7 @@
 - docs/zh/getting-started/first-steps.md (版本: 1.0.3, 最后更新: 2026-06-03)
 - docs/zh/getting-started/index.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/getting-started/installation.md (版本: 1.0.4, 最后更新: 2026-06-03)
+- docs/zh/index.md (版本: 1.0.6, 最后更新: 2026-07-14)
 - docs/zh/monitoring/alert_rules_guide.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/monitoring/alerts.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/monitoring/configuration.md (版本: 1.0.4, 最后更新: 2026-07-11)
@@ -90,6 +92,7 @@
 - docs/zh/monitoring/setup.md (版本: 1.0.3, 最后更新: 2026-06-03)
 - docs/zh/monitoring/testing.md (版本: 1.0.4, 最后更新: 2026-06-03)
 - docs/zh/monitoring/troubleshooting.md (版本: 1.0.2, 最后更新: 2026-06-03)
+- docs/zh/reference/changelog.md (版本: 1.0.7, 最后更新: 2026-07-14)
 - docs/zh/reference/faq.md (版本: 1.0.5, 最后更新: 2026-06-03)
 - docs/zh/reference/glossary.md (版本: 1.0.2, 最后更新: 2026-06-03)
 - docs/zh/reference/index.md (版本: 1.0.3, 最后更新: 2026-06-03)
@@ -135,6 +138,7 @@
 - docs/en/configuration/jwt-persistence.md (版本: 1.0.1, 最后更新: 2026-06-10)
 - docs/en/deployment/jwt-persistence-deployment-checklist.md (版本: 1.0.1, 最后更新: 2026-06-11)
 - docs/zh/reference/adapter-updates.md (版本: 1.0.1, 最后更新: 2026-06-03)
+- QWEN.md (版本: 1.0.4, 最后更新: 2026-07-14)
 - docs/en/monitoring/alert_rules_guide.md (版本: 1.0.1, 最后更新: 2026-06-11)
 - docs/en/reference/adapter-updates.md (版本: 1.0.1, 最后更新: 2026-06-11)
 - docs/zh/configuration/jwt-persistence.md (版本: 1.0.1, 最后更新: 2026-06-03)
@@ -638,7 +642,7 @@
 
 ## 所有文档版本
 
-- **docs-version-report.md**: v1.0.92 - 2026-08-12 (825e6312)
+- **docs-version-report.md**: v1.0.93 - 2026-08-13 (2fb4adcd)
 - **docs/zh/reference/roadmap.md**: v1.0.8 - 2026-07-18 (7b407bcc)
 - **docs/zh/configuration/validation-rules.md**: v1.0.3 - 2026-07-18 (7b407bcc)
 - **docs/en/reference/roadmap.md**: v1.0.8 - 2026-07-18 (7b407bcc)
