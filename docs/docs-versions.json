@@ -1936,10 +1936,10 @@
     },
     "docs-version-report.md": {
       "FilePath": "docs-version-report.md",
-      "Version": "1.0.96",
-      "LastModified": "2026-08-16T04:09:51.504556",
-      "ContentHash": "630c6d358503caf8",
-      "GitCommit": "c3284bcf",
+      "Version": "1.0.97",
+      "LastModified": "2026-08-17T04:25:41.961753",
+      "ContentHash": "288da48f84742749",
+      "GitCommit": "9f4d703c",
       "Author": "GitHub Action",
       "ChangeSummary": "",
       "Dependencies": []
@@ -2006,14 +2006,6 @@
     }
   },
   "changes": [
-    {
-      "FilePath": "docs-version-report.md",
-      "OldVersion": "1.0.15",
-      "NewVersion": "1.0.16",
-      "ChangeType": "MODIFIED",
-      "Timestamp": "2026-05-18T06:14:48.203150",
-      "Description": "文档modified"
-    },
     {
       "FilePath": "QWEN.md",
       "OldVersion": "1.0.2",
@@ -4813,7 +4805,15 @@
       "ChangeType": "MODIFIED",
       "Timestamp": "2026-08-16T04:09:51.504565",
       "Description": "文档modified"
+    },
+    {
+      "FilePath": "docs-version-report.md",
+      "OldVersion": "1.0.96",
+      "NewVersion": "1.0.97",
+      "ChangeType": "MODIFIED",
+      "Timestamp": "2026-08-17T04:25:41.961760",
+      "Description": "文档modified"
     }
   ],
-  "last_updated": "2026-08-16T04:09:52.296866"
+  "last_updated": "2026-08-17T04:25:43.161225"
 }
