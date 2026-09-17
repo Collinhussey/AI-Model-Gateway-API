@@ -5,17 +5,17 @@
 - 总文档数: 152
 - 近7天变更: 7
 - 版本文件: /home/runner/work/AI-Model-Gateway-API/AI-Model-Gateway-API/docs/docs-versions.json
-- 最后扫描: 2026-09-16 07:23:46
+- 最后扫描: 2026-09-17 07:19:38
 
 ## 最近变更
 
+- **MODIFIED**: docs-version-report.md (1.0.127 → 1.0.128) - 2026-09-17
 - **MODIFIED**: docs-version-report.md (1.0.126 → 1.0.127) - 2026-09-16
 - **MODIFIED**: docs-version-report.md (1.0.125 → 1.0.126) - 2026-09-15
 - **MODIFIED**: docs-version-report.md (1.0.124 → 1.0.125) - 2026-09-14
 - **MODIFIED**: docs-version-report.md (1.0.123 → 1.0.124) - 2026-09-13
 - **MODIFIED**: docs-version-report.md (1.0.122 → 1.0.123) - 2026-09-12
 - **MODIFIED**: docs-version-report.md (1.0.121 → 1.0.122) - 2026-09-11
-- **MODIFIED**: docs-version-report.md (1.0.120 → 1.0.121) - 2026-09-10
 
 ## 过期文档 (30天未更新)
 
@@ -660,7 +660,7 @@
 
 ## 所有文档版本
 
-- **docs-version-report.md**: v1.0.127 - 2026-09-16 (26a6905c)
+- **docs-version-report.md**: v1.0.128 - 2026-09-17 (56ee8cc3)
 - **docs/zh/reference/roadmap.md**: v1.0.8 - 2026-07-18 (7b407bcc)
 - **docs/zh/configuration/validation-rules.md**: v1.0.3 - 2026-07-18 (7b407bcc)
 - **docs/en/reference/roadmap.md**: v1.0.8 - 2026-07-18 (7b407bcc)
